@@ -1,6 +1,6 @@
 # SPEC — #17368106: CRUD Table (Test 1 Task)
 **Type:** Feature
-**Status:** DRAFT
+**Status:** APPROVED
 **Author:** BA / AI-assisted
 **Date:** 2025-01-31
 
